@@ -7,6 +7,6 @@
   },
   "main": "",
   "scripts": {
-    "start": "tiddlywiki wiki --listen host=0.0.0.0 port=8080 username=deardings password=fnord23"
+    "start": "tiddlywiki wiki --listen host=0.0.0.0 port=8080"
   }
 }
